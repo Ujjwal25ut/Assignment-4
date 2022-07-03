@@ -1,4 +1,4 @@
-package Assignment4June30;
+package assignment4June30;
 
 import java.util.Arrays;
 import java.util.List;
